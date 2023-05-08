@@ -8,8 +8,6 @@ ORM E-Commerce Back End
 An e-commerce site built by modifying a starter code.
 
 ## Table of Contents 
-- [Cybercommerce](#cybercommerce)
-  - [Description](#description)
   - [Table of Contents](#table-of-contents)
   - [Installation](#installation)
   - [Usage](#usage)
