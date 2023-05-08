@@ -8,8 +8,6 @@ ORM E-Commerce Back End
 An e-commerce site built by modifying a starter code.
 
 ## Table of Contents 
-- [Cybercommerce](#cybercommerce)
-  - [Description](#description)
   - [Table of Contents](#table-of-contents)
   - [Installation](#installation)
   - [Usage](#usage)
@@ -27,8 +25,13 @@ The user should clone the repository from GitHub. This application requires Node
 This application will allow users to view, add, edit, and delete categories, products, and tags.
 
 ## Mock-Up
+ Screenshot of Category Routes using POSTMAN.
 ![screenshot of the category request](./assets/images/Get%20Categories.png)
+
+ Screenshot of Product Routes using POSTMAN.
 ![screenshot of the product request](./assets/images/GET%20Products.png)
+
+ Screenshot of Tag Routes using POSTMAN.
 ![screenshot of the tag request](./assets/images/GET%20Tags.png)
 
 [Demo Link]
