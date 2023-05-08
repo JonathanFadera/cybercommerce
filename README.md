@@ -23,6 +23,11 @@ The user should clone the repository from GitHub. This application requires Node
 ## Usage
 This application will allow users to view, add, edit, and delete categories, products, and tags.
 
+## Mock-Up
+![screenshot of the app with save button](./public/assets/images/Mock-up%20with%20save%20button.png)
+
+[Demo Link]
+
 ## License
     This application is covered by the MIT license.
 
