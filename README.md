@@ -43,7 +43,7 @@ This application will allow users to view, add, edit, and delete categories, pro
 There are no tests for this application. 
 
 ## Credits
-[Jonathan Fadera](https://github.com/JonathanFadera), [Week_13-ORM](https://ucb.bootcampcontent.com/UCB-Coding-Bootcamp/UCB-VIRT-FSF-PT-01-2023-U-LOLC/-/tree/main/Week_13_ORM),  Olena Pashchenko (Bootcamp Classmate)
+[Jonathan Fadera](https://github.com/JonathanFadera), [Week_13-ORM](https://ucb.bootcampcontent.com/UCB-Coding-Bootcamp/UCB-VIRT-FSF-PT-01-2023-U-LOLC/-/tree/main/Week_13_ORM),  [Olena Pashchenko](https://github.com/UserOlena/)
 
 ## Questions
 If there are any questions, feel free to contact my email at: ericsonhnc@gmail.com
