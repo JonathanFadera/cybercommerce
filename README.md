@@ -34,7 +34,7 @@ This application will allow users to view, add, edit, and delete categories, pro
  Screenshot of Tag Routes using POSTMAN.
 ![screenshot of the tag request](./assets/images/GET%20Tags.png)
 
-[Demo Link]
+[Demo Link](https://watch.screencastify.com/v/9P9UPb2jg7IeL8K5pOo6)
 
 ## License
     This application is covered by the MIT license.
