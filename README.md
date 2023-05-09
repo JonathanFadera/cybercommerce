@@ -19,7 +19,7 @@ An e-commerce site built by modifying a starter code.
   - [Deployed Application](#deployed-application)
 
 ## Installation
-Clone the repository from GitHub. The application requires [Node](https://www.npmjs.com/package/node), [Express](https://www.npmjs.com/package/express), [MySQL2](https://www.npmjs.com/package/mysql2), and [Sequelize](https://www.npmjs.com/package/sequelize). To connect to the database run `mysql -u root -p` and enter password from .env file. Then source the schema.sql. To seed the file run `npm run seed`. Finally to connect to the server run `npm start`.
+Clone the repository from GitHub. The application requires [Node](https://www.npmjs.com/package/node), [Express](https://www.npmjs.com/package/express), [MySQL2](https://www.npmjs.com/package/mysql2), and [Sequelize](https://www.npmjs.com/package/sequelize). To connect to the database run `mysql -u root -p` and enter password from .env file. Then source the schema.sql. To seed the file, run `npm run seed`. Finally, to connect to the server, run `npm start`.
 
 ## Usage
 This application will allow users to view, add, edit, and delete categories, products, and tags.
